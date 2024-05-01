@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Upadhyay</h1>
 <h3 align="center">A Web3 enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beyondaman" alt="beyondaman" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beyondaman" alt="beyondaman" /></a> </p> -->
 
 ### About Me 🙋
 
@@ -63,9 +63,9 @@ Let's connect and embark on the next exciting chapter together! 🌟"
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/au06/) \
 [![Email](https://img.shields.io/badge/email-white.svg?style=for-the-badge&logo=gmail&logoColor=red)](mailto:aman.au06@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beyondaman&show_icons=true&locale=en&layout=compact" alt="beyondaman" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beyondaman&show_icons=true&locale=en&layout=compact" alt="beyondaman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beyondaman&show_icons=true&locale=en" alt="beyondaman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beyondaman&show_icons=true&locale=en" alt="beyondaman" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beyondaman&" alt="beyondaman" /></p>
 
