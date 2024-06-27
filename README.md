@@ -17,7 +17,7 @@ My commitment to staying ahead in emerging technologies keeps me pushing the bou
 
 Let's connect and embark on the next exciting chapter together! 🌟"
 
-- 🌱 I’m currently learning **Firecracker and KVMs**
+- 🌱 I’m currently learning **Firecracker and KVMs and Crossplane**
 
 - 💬 Ask me about **K8s, Service Meshes, Automation, and Blockchain Network Deployments**
 
