@@ -5,7 +5,7 @@
 
 ### About Me 🙋
 
-I'm a seasoned DevOps Engineer and enthusiastic about Web3, with over 4 years of hands-on experience crafting and deploying cutting-edge applications across diverse cloud environments. 💻
+I'm a seasoned DevOps Engineer and enthusiastic about Web3, with over 5 years of hands-on experience crafting and deploying cutting-edge applications across diverse cloud environments. 💻
 
 My journey has been all about innovation, from architecting highly scalable blockchain solutions to orchestrating seamless cloud migrations. With a keen eye for detail and a passion for optimizing processes, I've led initiatives to automate CI/CD pipelines, slashing deployment times and boosting efficiency. 🚀
 
