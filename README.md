@@ -25,18 +25,18 @@ Let's connect and build reliable infrastructure together! 🌟
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D.svg?style=for-the-badge&logo=hetzner&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Route 53](https://img.shields.io/badge/Route_53-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-8B5CF6.svg?style=for-the-badge&logo=awslambda&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-00A6A6.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-0EA5E9.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-7C3AED.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-228B22.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Containers & Infrastructure as Code
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900.svg?style=for-the-badge&logo=amazoneks&logoColor=white)
 ![Google GKE](https://img.shields.io/badge/Google_GKE-4285F4.svg?style=for-the-badge&logo=googlekubernetesengine&logoColor=white)
-![Helm](https://img.shields.io/badge/HELM-%235835CC.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Helm](https://img.shields.io/badge/HELM-0F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
@@ -44,23 +44,23 @@ Let's connect and build reliable infrastructure together! 🌟
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
-![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
+![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-008F95.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![Git](https://img.shields.io/badge/git-green.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Observability & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-8B5CF6.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F59E0B.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Mimir](https://img.shields.io/badge/Mimir-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Tempo](https://img.shields.io/badge/Tempo-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Mimir](https://img.shields.io/badge/Mimir-06B6D4.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-6366F1.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![SigNoz](https://img.shields.io/badge/SigNoz-6E56CF.svg?style=for-the-badge&logo=signoz&logoColor=white)
 
 ### Networking
 ![Kong](https://img.shields.io/badge/Kong-003459.svg?style=for-the-badge&logo=kong&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0.svg?style=for-the-badge&logo=istio&logoColor=white)
 ![External DNS](https://img.shields.io/badge/External_DNS-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![cert-manager](https://img.shields.io/badge/cert--manager-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![cert-manager](https://img.shields.io/badge/cert--manager-7B61FF.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### API Management
 ![Apigee](https://img.shields.io/badge/Apigee-1A73E8.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -73,7 +73,7 @@ Let's connect and build reliable infrastructure together! 🌟
 
 ### Streaming & Workflow
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Temporal](https://img.shields.io/badge/Temporal-000000.svg?style=for-the-badge&logo=temporal&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-5B5FEF.svg?style=for-the-badge&logo=temporal&logoColor=white)
 
 ### Identity & Access
 ![Logto](https://img.shields.io/badge/Logto-16A34A.svg?style=for-the-badge&logo=logto&logoColor=white)
@@ -88,8 +88,8 @@ Cloud-native deployment and operation of AI and agentic workloads, built on Kube
 
 ### Security & Compliance
 ![GDPR](https://img.shields.io/badge/GDPR-005A9C.svg?style=for-the-badge)
-![SOC 2](https://img.shields.io/badge/SOC_2-1F6FEB.svg?style=for-the-badge)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-1F6FEB.svg?style=for-the-badge)
+![SOC 2](https://img.shields.io/badge/SOC_2-DB4437.svg?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-2E8B57.svg?style=for-the-badge)
 
 ### Blockchains
 ![Ethereum](https://img.shields.io/badge/ethereum-red.svg?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -97,7 +97,7 @@ Cloud-native deployment and operation of AI and agentic workloads, built on Kube
 ![optimism](https://img.shields.io/badge/optimism-black.svg?style=for-the-badge&logo=googleoptimize&logoColor=red)
 ![Cosmos](https://img.shields.io/badge/Cosmos-green.svg?style=for-the-badge&logo=icomoon&logoColor=white)
 ![Arbitrum](https://img.shields.io/badge/Arbitrum-orange.svg?style=for-the-badge&logo=arxiv&logoColor=black)
-![Base](https://img.shields.io/badge/Base-black.svg?style=for-the-badge&logo=hashnode&logoColor=red)
+![Base](https://img.shields.io/badge/Base-0052FF.svg?style=for-the-badge&logo=base&logoColor=white)
 
 ### Languages & Scripting
 ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
