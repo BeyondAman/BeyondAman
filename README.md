@@ -1,25 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aman Upadhyay</h1>
-<h3 align="center">A Web3 enthusiast from India</h3>
+<h3 align="center">Staff DevOps at Orbitronai | Cloud &amp; Web3 Infrastructure | India</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beyondaman" alt="beyondaman" /></a> </p> -->
 
 ### About Me 🙋
 
-I'm a seasoned DevOps Engineer and enthusiastic about Web3, with over 5 years of hands-on experience crafting and deploying cutting-edge applications across diverse cloud environments. 💻
+I'm a Staff DevOps Engineer at Orbitronai with 7+ years of experience building and operating cloud-native and blockchain infrastructure across AWS, GCP, Hetzner, and other cloud environments. 💻
 
-My journey has been all about innovation, from architecting highly scalable blockchain solutions to orchestrating seamless cloud migrations. With a keen eye for detail and a passion for optimizing processes, I've led initiatives to automate CI/CD pipelines, slashing deployment times and boosting efficiency. 🚀
+My work includes high-availability blockchain networks, Kubernetes platforms, zero-downtime upgrades, and automated CI/CD with Argo CD and GitHub Actions. I focus on reliable operations, observability, security, and practical infrastructure cost control. 🚀
 
-My expertise extends to the intricate realm of security, where I've championed robust monitoring and access control measures to safeguard mission-critical systems. 🔒
+I've helped reduce deployment times by 90%, infrastructure costs by 35%, and maintained 99.95% uptime across production environments. 🔒
 
-Whether it's designing multi-regional clusters for peak performance or devising disaster recovery strategies for resilience, I thrive on tackling complex challenges head-on. 💼
+I enjoy designing resilient systems and improving how engineering teams ship and operate software. 💼
 
-My commitment to staying ahead in emerging technologies keeps me pushing the boundaries in the ever-evolving landscape of cloud infrastructure. ✨
+Let's connect and build reliable infrastructure together! 🌟
 
-Let's connect and embark on the next exciting chapter together! 🌟"
-
-- 🌱 I’m currently learning **Firecracker and KVMs and Crossplane**
-
-- 💬 Ask me about **K8s, Service Meshes, Automation, and Blockchain Network Deployments**
+- 🌐 Portfolio: [beyondau.space](https://beyondau.space)
+- 💬 Ask me about **Kubernetes, cloud infrastructure, observability, CI/CD, and blockchain networks**
 
 - ⚡ Fun fact **Game Over 🎮**
 ### Cloud DevOps
@@ -52,7 +49,7 @@ Let's connect and embark on the next exciting chapter together! 🌟"
 
 ### Experience
 
-[![Resume](https://img.shields.io/badge/Resume-white.svg?style=for-the-badge&logo=readme&logoColor=blue)](https://bold.pro/my/au06)
+[![Resume](https://img.shields.io/badge/Resume-white.svg?style=for-the-badge&logo=readme&logoColor=blue)](https://drive.google.com/file/d/1WfehTNBPpH9GMebl7ZVAqMRaP9kFVj8o/view?usp=sharing)
 
 ### Game Engines
 [![Blender](https://img.shields.io/badge/Blender-grey.svg?style=for-the-badge&logo=blender&logoColor=orange)](https://bold.pro/my/au06)
