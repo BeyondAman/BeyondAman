@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman Upadhyay</h1>
-<h3 align="center">Staff DevOps at Orbitronai | Cloud &amp; Web3 Infrastructure | India</h3>
+<h3 align="center">Staff DevOps Engineer | Cloud &amp; Web3 Infrastructure | India</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beyondaman" alt="beyondaman" /></a> </p> -->
 
 ### About Me 🙋
 
-I'm a Staff DevOps Engineer at Orbitronai with 7+ years of experience building and operating cloud-native and blockchain infrastructure across AWS, GCP, Hetzner, and other cloud environments. 💻
+I'm a Staff DevOps Engineer with 7+ years of experience building and operating cloud-native and blockchain infrastructure across AWS, GCP, Hetzner, and other cloud environments. 💻
 
 My work includes high-availability blockchain networks, Kubernetes platforms, zero-downtime upgrades, and automated CI/CD with Argo CD and GitHub Actions. I focus on reliable operations, observability, security, and practical infrastructure cost control. 🚀
 
@@ -30,6 +30,23 @@ Let's connect and build reliable infrastructure together! 🌟
 ![ArgoCd](https://img.shields.io/badge/ArgoCD-white.svg?style=for-the-badge&logo=argo&logoColor=orange)
 ![Git](https://img.shields.io/badge/git-green.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Istio](https://img.shields.io/badge/istio-%235835CC.svg?style=for-the-badge&logo=istio&logoColor=white)
+
+### Streaming & Workflow
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000.svg?style=for-the-badge&logo=temporal&logoColor=white)
+
+### Identity & Access
+![Logto](https://img.shields.io/badge/Logto-16A34A.svg?style=for-the-badge&logo=logto&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1.svg?style=for-the-badge&logo=okta&logoColor=white)
+
+### AI Observability
+![Langfuse](https://img.shields.io/badge/Langfuse-000000.svg?style=for-the-badge&logo=langfuse&logoColor=white)
+![Laminar](https://img.shields.io/badge/Laminar-6D28D9.svg?style=for-the-badge&logo=laminar&logoColor=white)
+
+### Security & Compliance
+![GDPR](https://img.shields.io/badge/GDPR-005A9C.svg?style=for-the-badge)
+![SOC 2](https://img.shields.io/badge/SOC_2-1F6FEB.svg?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-1F6FEB.svg?style=for-the-badge)
 
 ### Blockchains
 ![Ethereum](https://img.shields.io/badge/ethereum-red.svg?style=for-the-badge&logo=ethereum&logoColor=white)
