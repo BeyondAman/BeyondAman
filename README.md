@@ -16,7 +16,7 @@ I enjoy designing resilient systems and improving how engineering teams ship and
 Let's connect and build reliable infrastructure together! 🌟
 
 - 🌐 Portfolio: [beyondau.space](https://beyondau.space)
-- 💬 Ask me about **Kubernetes, cloud infrastructure, observability, CI/CD, and blockchain networks**
+- 💬 Ask me about **AI infrastructure and workloads, AI observability, Kubernetes, CI/CD, and blockchain networks**
 
 - ⚡ Fun fact **Game Over 🎮**
 ### Cloud Platforms & Services
@@ -78,6 +78,9 @@ Let's connect and build reliable infrastructure together! 🌟
 ### Identity & Access
 ![Logto](https://img.shields.io/badge/Logto-16A34A.svg?style=for-the-badge&logo=logto&logoColor=white)
 ![Okta](https://img.shields.io/badge/Okta-007DC1.svg?style=for-the-badge&logo=okta&logoColor=white)
+
+### AI Infrastructure & Workloads
+Cloud-native deployment and operation of AI and agentic workloads, built on Kubernetes and the cloud platforms listed above.
 
 ### AI Observability
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000.svg?style=for-the-badge&logo=langfuse&logoColor=white)
